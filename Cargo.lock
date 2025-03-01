@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "wintrash"
+name = "minbin"
 version = "0.1.0"
